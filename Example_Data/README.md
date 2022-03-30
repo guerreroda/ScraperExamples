@@ -5,6 +5,7 @@
 **Last Edit:** 02/19/2018.
 
 **NOTICE:** All datasets are original content, available for free. Please make good use of it and quote.
+**Note:** Individual level data is not available anymore due to storage space limitations.
 
 
 ## Venezuelan Prices Tracker
