@@ -11,6 +11,9 @@ All programs wer done with the purpose to hone my abilities as practice. Thus, l
 
 ## Files
 
+2019_scraper_Craiglist.py
+Website:  Craiglist
+Description:  Scrapes ads in Craiglist.
 
 2019_scraper_vzlaPrices_Alcohol.py
 Website:  LicoresMundiales.com.ve
