@@ -59,7 +59,7 @@ except: gmaps = googlemaps.Client(client_id=input('Try Client ID again. >').stri
 # https://console.developers.google.com/projectselector/apis/api/directions_backend?supportedpurview=project
 # Look for "geo" at APIs' Library.
 # check enabling with:
-# https://maps.googleapis.com/maps/api/directions/json?origin=75+9th+Ave+New+York,+NY&destination=MetLife+Stadium+1+MetLife+Stadium+Dr+East+Rutherford,+NJ+07073&mode=transit&arrival_time=1391374800&key=AIzaSyBjQNWb1m_PII_gykiWAhTVfsy1GCozd94
+# https://maps.googleapis.com/maps/api/directions/json?origin=75+9th+Ave+New+York,+NY&destination=MetLife+Stadium+1+MetLife+Stadium+Dr+East+Rutherford,+NJ+07073&mode=transit&arrival_time=1391374800&key=
 
 
 # -------------------------------------
