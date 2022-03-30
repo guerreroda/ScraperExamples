@@ -11,6 +11,15 @@ All programs wer done with the purpose to hone my abilities as practice. Thus, l
 
 ## Files
 
+
+2016_Electoral_Signatures.py
+
+Description: Uses private political party data and electoral data to mobilize voters.
+
+2018_GMaps_Route.py 
+
+Description:   Uses private data and Google Maps API to find the shortest route from one location to another.
+
 2019_scraper_Craiglist.py
 
 Website:  Craiglist
